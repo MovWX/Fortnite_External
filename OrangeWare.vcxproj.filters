@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Imgui\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_dx9.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_win32.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_widgets.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="driver.cpp">
+      <Filter>Driver</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="d3d9_x.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="overlay.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="skStr.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="drawings.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="FVector.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="Keybind.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="lazy.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="ud.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="win_utils.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="x.hpp">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="driver.h">
+      <Filter>Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="features.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.hpp">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="colors.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{60814292-ee2a-4444-84c8-39fa59e62bc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Others">
+      <UniqueIdentifier>{add2090a-f499-445f-be80-7554879f6299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Driver">
+      <UniqueIdentifier>{9eefc11e-6d5c-4c22-bad1-0dff556c5952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{3e04a153-d2ce-45fb-9816-21fbc3954c41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{54da5f52-0ebf-4bee-91cc-e667af7595ce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="decryption.asm">
+      <Filter>Others</Filter>
+    </None>
+  </ItemGroup>
+</Project>

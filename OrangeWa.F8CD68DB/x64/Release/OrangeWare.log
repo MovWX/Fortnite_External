@@ -1,0 +1,1156 @@
+﻿  main.cpp
+C:\Users\justi\Desktop\Fn\win_utils.h(208,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(208,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(208,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(264,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(265,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(266,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(268,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(269,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(270,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(272,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(273,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(274,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(275,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(276,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(277,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(280,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(281,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(282,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(283,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(286,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(287,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(288,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(289,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(292,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(293,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(294,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(295,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\win_utils.h(336,58): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\colors.h(123,70): warning C4244: "Argument": Konvertierung von "int" in "WORD", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\xor.hpp(211,19): warning C4244: "return": Konvertierung von "int" in "char", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: Deklaration von "hwnd" blendet globale Deklaration aus
+  (Quelldatei „main.cpp“ wird kompiliert)
+  C:\Users\justi\Desktop\Fn\win_utils.h(26,6):
+  Siehe Deklaration von "hwnd"
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(55,22): warning C4100: "blank": Unreferenzierter formaler Parameter
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(71,24): warning C4100: "blank": Unreferenzierter formaler Parameter
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(87,25): warning C4100: "blank": Unreferenzierter formaler Parameter
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(103,23): warning C4100: "blank": Unreferenzierter formaler Parameter
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(119,26): warning C4100: "blank": Unreferenzierter formaler Parameter
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\Keybind.h(785,14): warning C4459: Deklaration von "aimkeys" blendet globale Deklaration aus
+  (Quelldatei „main.cpp“ wird kompiliert)
+  C:\Users\justi\Desktop\Fn\win_utils.h(44,20):
+  Siehe Deklaration von "aimkeys"
+  
+C:\Users\justi\Desktop\Fn\driver.h(54,39): warning C4244: "Argument": Konvertierung von "SIZE_T" in "DWORD", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\driver.h(61,39): warning C4244: "Argument": Konvertierung von "SIZE_T" in "DWORD", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(11,119): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(11,108): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(11,97): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(11,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(11,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(12,119): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(12,108): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(12,97): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(12,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(12,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(13,119): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(13,108): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(13,97): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(13,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(13,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(14,119): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(14,108): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(14,97): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(14,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(14,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(15,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(15,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(19,10): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(19,6): warning C4189: "len": Lokale Variable ist initialisiert aber nicht referenziert
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(50,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(51,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(55,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(55,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(56,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(56,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(57,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(57,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(58,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(58,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,181): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,146): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,128): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(60,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,154): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,136): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,118): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,100): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(103,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,172): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,154): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,136): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,118): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,183): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(107,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,146): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,128): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,110): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(111,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(115,126): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(116,102): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(120,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(121,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(121,57): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(121,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(121,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(122,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(122,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(122,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(122,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(123,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(123,54): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(123,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(123,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(123,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(126,14): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(127,14): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,137): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,126): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,115): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,60): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(130,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,137): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,126): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,115): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(131,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,145): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,134): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,123): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(132,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,145): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,134): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,123): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(133,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,145): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,134): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,123): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(134,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,145): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,134): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,123): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(135,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,153): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,142): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,131): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(136,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,153): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,142): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,131): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(137,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(140,102): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(140,60): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(140,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(140,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(141,102): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(141,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(141,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(141,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(142,110): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(142,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(142,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(142,61): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(143,110): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(143,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(143,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(143,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(144,110): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(144,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(144,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(144,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(145,110): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(145,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(145,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(145,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(146,118): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(146,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(146,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(146,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(147,118): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(147,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(147,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(147,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,182): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,146): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,128): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,75): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(151,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(157,21): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(157,24): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(165,21): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\drawings.h(165,24): warning C4838: Konvertierung von "int" zu "DWORD" erfordert eine einschränkende Konvertierung
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(8,6): warning C4189: "isCached": Lokale Variable ist initialisiert aber nicht referenziert
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(30,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(31,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(32,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(56,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(57,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\sdk.h(58,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\main.cpp(126,8): warning C4459: Deklaration von "ScreenCenterX" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\overlay.h(9,7):
+  Siehe Deklaration von "ScreenCenterX"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(126,22): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(127,8): warning C4459: Deklaration von "ScreenCenterY" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\overlay.h(10,7):
+  Siehe Deklaration von "ScreenCenterY"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(127,22): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(178,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(178,21): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(198,12): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\features.h(186,3):
+  Siehe Deklaration von "color"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(228,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(228,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(228,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(228,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(229,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(229,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(229,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(229,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(230,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(230,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(230,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(230,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(231,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(231,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(231,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(231,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(232,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(232,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(232,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(232,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(233,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(233,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(233,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(233,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(234,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(234,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(234,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(234,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(235,145): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(235,122): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(235,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(235,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(236,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(236,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(236,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(236,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(237,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(237,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(237,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(237,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(238,145): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(238,122): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(238,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(238,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(239,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(239,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(239,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(239,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(240,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(240,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(240,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(240,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(246,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(246,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(246,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(246,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(247,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(247,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(247,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(247,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(248,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(248,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(248,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(248,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(249,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(249,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(249,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(249,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(250,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(250,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(250,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(250,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(251,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(251,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(251,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(251,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(252,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(252,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(252,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(252,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(253,145): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(253,122): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(253,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(253,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(254,143): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(254,120): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(254,89): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(254,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(255,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(255,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(255,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(255,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(256,145): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(256,122): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(256,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(256,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(257,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(257,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(257,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(257,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(258,147): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(258,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(258,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(258,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(198,12): warning C4189: "color": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(295,101): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(295,88): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(295,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(295,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(296,101): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(296,88): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(296,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(296,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(297,100): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(297,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(297,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(297,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(298,100): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(298,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(298,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(298,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(301,10): warning C4456: Deklaration von "center" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(291,20):
+  Siehe Deklaration von "center"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(301,41): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(301,26): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(303,9): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\features.h(186,3):
+  Siehe Deklaration von "color"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(309,10): warning C4456: Deklaration von "center" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(291,20):
+  Siehe Deklaration von "center"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(309,41): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(309,26): warning C4244: "Argument": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(312,9): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\features.h(186,3):
+  Siehe Deklaration von "color"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(316,110): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(321,9): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\features.h(186,3):
+  Siehe Deklaration von "color"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(329,9): warning C4459: Deklaration von "color" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\features.h(186,3):
+  Siehe Deklaration von "color"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(397,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(409,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(413,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(417,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(421,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(425,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(429,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(433,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(437,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(441,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(445,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(449,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(453,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(457,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(461,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(465,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(469,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(473,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(477,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(481,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(485,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(489,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(493,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(497,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(501,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(505,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(509,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(513,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(517,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(521,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(525,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(529,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(533,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(537,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(541,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(545,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(549,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(553,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(557,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(561,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(565,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(569,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(573,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(577,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(581,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(585,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(589,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(593,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(597,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(601,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(605,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(609,11): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\justi\Desktop\Fn\main.cpp(615,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\justi\Desktop\Fn\main.cpp(647,12): warning C4459: Deklaration von "CurrentActorMesh" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(192,10):
+  Siehe Deklaration von "CurrentActorMesh"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(651,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(659,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(660,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(729,14): warning C4456: Deklaration von "CurrentVehicle" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(718,14):
+  Siehe Deklaration von "CurrentVehicle"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(756,18): warning C4127: Bedingter Ausdruck ist konstant
+  C:\Users\justi\Desktop\Fn\main.cpp(756,18):
+  Verwenden Sie stattdessen ggf. die Anweisung "if constexpr".
+  
+C:\Users\justi\Desktop\Fn\main.cpp(805,47): warning C4244: "Argument": Konvertierung von "double" in "T", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(805,47): warning C4244:         with
+C:\Users\justi\Desktop\Fn\main.cpp(805,47): warning C4244:         [
+C:\Users\justi\Desktop\Fn\main.cpp(805,47): warning C4244:             T=float
+C:\Users\justi\Desktop\Fn\main.cpp(805,47): warning C4244:         ]
+C:\Users\justi\Desktop\Fn\main.cpp(852,40): warning C4474: "sprintf_s": zu viele Argumente für Formatzeichenfolge übergeben
+  C:\Users\justi\Desktop\Fn\main.cpp(852,40):
+  Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  
+C:\Users\justi\Desktop\Fn\main.cpp(855,83): warning C4474: "sprintf_s": zu viele Argumente für Formatzeichenfolge übergeben
+  C:\Users\justi\Desktop\Fn\main.cpp(855,83):
+  Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  
+C:\Users\justi\Desktop\Fn\main.cpp(858,60): warning C4474: "sprintf_s": zu viele Argumente für Formatzeichenfolge übergeben
+  C:\Users\justi\Desktop\Fn\main.cpp(858,60):
+  Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  
+C:\Users\justi\Desktop\Fn\main.cpp(877,179): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(877,78): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(877,65): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(877,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(877,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(880,188): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(880,78): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(880,65): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(880,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(880,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(884,13): warning C4456: Deklaration von "Headpos" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(648,11):
+  Siehe Deklaration von "Headpos"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(888,13): warning C4456: Deklaration von "bone66" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(642,11):
+  Siehe Deklaration von "bone66"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(890,13): warning C4456: Deklaration von "bone0" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(643,11):
+  Siehe Deklaration von "bone0"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(891,13): warning C4456: Deklaration von "bottom" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(644,11):
+  Siehe Deklaration von "bottom"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(892,13): warning C4456: Deklaration von "Headbox" blendet vorherige lokale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(645,11):
+  Siehe Deklaration von "Headbox"
+  
+C:\Users\justi\Desktop\Fn\main.cpp(915,93): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(915,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(915,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(915,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(916,93): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(916,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(916,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(916,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(917,93): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(917,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(917,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(917,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(918,93): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(918,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(918,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(918,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(919,99): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(919,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(919,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(919,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(920,99): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(920,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(920,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(920,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(921,99): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(921,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(921,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(921,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(922,99): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(922,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(922,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(922,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(923,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(923,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(923,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(923,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(924,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(924,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(924,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(924,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(925,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(925,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(925,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(925,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(926,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(926,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(926,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(926,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(930,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(930,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(946,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(946,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(946,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(946,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(947,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(947,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(947,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(947,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(948,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(948,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(948,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(948,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(949,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(949,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(949,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(949,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(951,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(951,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(951,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(951,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(952,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(952,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(952,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(952,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(953,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(953,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(953,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(953,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(954,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(954,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(954,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(954,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(956,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(956,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(956,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(956,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(957,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(957,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(957,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(957,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(958,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(958,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(958,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(958,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(959,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(959,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(959,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(959,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(965,76): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(965,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(965,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(968,75): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(968,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(968,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(976,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(976,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(976,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(976,57): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(979,94): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(979,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(979,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(979,57): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(985,184): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(985,83): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(985,70): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(985,66): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(985,38): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(988,184): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(988,83): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(988,70): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(988,66): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(988,38): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(999,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(999,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(999,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(999,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1000,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1000,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1000,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1000,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1001,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1001,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1001,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1001,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1002,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1002,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1002,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1002,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1003,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1003,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1003,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1003,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1004,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1004,84): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1004,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1004,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1005,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1005,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1005,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1005,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1006,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1006,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1006,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1006,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1012,171): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1012,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1012,25): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1015,171): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1015,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1015,25): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1021,152): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1021,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1021,64): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1021,60): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1021,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1022,76): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1022,63): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1022,59): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1022,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1031,64): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1031,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1048,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(656,9): warning C4189: "LeftX": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(657,9): warning C4189: "LeftY": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(641,15): warning C4189: "draw_list": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(748,16): warning C4189: "LocalMesh": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(773,8): warning C4189: "FOVVALUE": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(1043,11): warning C4189: "Visible": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\justi\Desktop\Fn\main.cpp(1261,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1288,55): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1288,47): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1458,32): warning C4100: "argv": Unreferenzierter formaler Parameter
+C:\Users\justi\Desktop\Fn\main.cpp(1458,14): warning C4100: "argc": Unreferenzierter formaler Parameter
+C:\Users\justi\Desktop\Fn\main.cpp(1585,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1586,23): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\justi\Desktop\Fn\main.cpp(1618,42): warning C4459: Deklaration von "Message" blendet globale Deklaration aus
+  C:\Users\justi\Desktop\Fn\main.cpp(1414,5):
+  Siehe Deklaration von "Message"
+  
+C:\Users\justi\Desktop\Fn\xor.hpp(224,24): warning C4244: "=": Konvertierung von "int" in "char", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  C:\Users\justi\Desktop\Fn\xor.hpp(224,24):
+  der Vorlageninstanziierungskontext (der älteste zuerst) ist
+  	C:\Users\justi\Desktop\Fn\main.cpp(1493,3):
+  	Siehe Verweis auf die gerade kompilierte Klasse Vorlage-Instanziierung "CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>".
+  	C:\Users\justi\Desktop\Fn\xor.hpp(222,8):
+  	beim Kompilieren der Klasse Vorlage-Memberfunktion "char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)"
+  		C:\Users\justi\Desktop\Fn\main.cpp(1494,8):
+  		Ersten Verweis auf "CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt" in "main" anzeigen
+  
+C:\Users\justi\Desktop\Fn\ud.h(8,24): warning C4505: "MouseController::Init": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\ud.h(69,24): warning C4505: "MouseController::Move_Mouse": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\justi\Desktop\Fn\ud.h(82,21): warning C4505: "MouseController::GetAsyncKeyState": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+  Code wird generiert.
+C:\Users\justi\Desktop\Fn\main.cpp(915): warning C4701: Die möglicherweise nicht initialisierte lokale Variable "ESPSkeleton" wurde verwendet.
+  12 of 1703 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  OrangeWare.vcxproj -> C:\Users\justi\Desktop\Fn\x64\Release\OrangeWare BETA.exe
