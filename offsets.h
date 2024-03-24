@@ -47,3 +47,4 @@ enum OFFSETS : uintptr_t {
     bIsSkydivingFromLaunchPad = 0x1fb5,
     PlayerCameraManager = 0x348,
 };
+
